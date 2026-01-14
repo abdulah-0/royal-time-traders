@@ -82,18 +82,15 @@ const About = () => {
                     <div className="grid md:grid-cols-3 gap-8 text-center">
                         <div>
                             <h3 className="font-bold mb-2">Email</h3>
-                            <p className="text-dark-600">info@royaltime.com</p>
-                            <p className="text-dark-600">support@royaltime.com</p>
+                            <p className="text-dark-600">royaltimetraders@gmail.com</p>
                         </div>
                         <div>
                             <h3 className="font-bold mb-2">Phone</h3>
-                            <p className="text-dark-600">+1 (555) 123-4567</p>
-                            <p className="text-dark-600">Mon-Fri: 9AM - 6PM EST</p>
+                            <p className="text-dark-600">03447224448</p>
                         </div>
                         <div>
                             <h3 className="font-bold mb-2">Location</h3>
-                            <p className="text-dark-600">123 Luxury Avenue</p>
-                            <p className="text-dark-600">New York, NY 10001</p>
+                            <p className="text-dark-600">18, Mobile Arena, SOAN Garden, Islamabad</p>
                         </div>
                     </div>
                 </div>
