@@ -50,15 +50,15 @@ const Footer = () => {
                         <ul className="space-y-3">
                             <li className="flex items-center space-x-2 text-dark-300">
                                 <FiMail className="text-gold-400" />
-                                <span>info@royaltime.com</span>
+                                <span>royaltimetraders@gmail.com</span>
                             </li>
                             <li className="flex items-center space-x-2 text-dark-300">
                                 <FiPhone className="text-gold-400" />
-                                <span>+1 (555) 123-4567</span>
+                                <span>03447224448</span>
                             </li>
                             <li className="flex items-center space-x-2 text-dark-300">
                                 <FiMapPin className="text-gold-400" />
-                                <span>123 Luxury Ave, NY</span>
+                                <span>18, Mobile Arena, SOAN Garden, Islamabad</span>
                             </li>
                         </ul>
                     </div>
